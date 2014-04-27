@@ -1,0 +1,175 @@
+
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta name="google-site-verification" content="G1S-FcvT1W4TNBNqwkm52QiKwfEgOHNJgJHFyR2mHdo">
+<meta charset="utf-8">
+<link rel="shortcut icon" href="favicon.ico"><title>The Renewable Energy Enterprises foundation</title>
+
+<meta name="Description" content="Page description">
+<link rel="stylesheet" href="css/styles.css">
+<!--[if IE 7]> <link rel="stylesheet" href="css/ie_styles.css" /> <![endif]--><!--[if IE 6]> <link rel="stylesheet" href="css/ie_styles.css" /> <![endif]-->
+</head>
+
+<body>
+<div id="container">
+<!--div id="logo"><img src="img/reef-logo.gif" alt="REEF Logo" height="135" width="135"></div-->
+<div id="burlap-top"></div>
+
+<div><a class="reef" href="#"><img class="reef" src="img/reef.gif" alt="REEF" height="52" width="245"></a></div>
+<div id="main-wrapper">
+
+<div id="header">
+<div id="socmed-nav-container">
+
+<!--div><a class="reef" href="#"><img class="reef" src="img/reef.gif" alt="REEF" height="52" width="245"></a></div-->
+<table>
+<tr>
+                  <td><a href="https://www.facebook.com/pages/Renewable-Energy-Enterprises-Foundation/127274784025891?ref=ts" title="Facebook"><img src="img/icons/facebook.gif" width="24" height="26" alt="Facebook" /></a></td>
+				  <td><a href="http://twitter.com/rchesley3" title="Twitter"><img src="img/icons/twitter.gif" width="24" height="26" 
+				  alt="Twitter" /></a></td>
+				  <td><a href="http://www.linkedin.com/groups?mostPopular=&gid=2950787" title="LinkedIn"><img src="img/icons/linkedin.gif" width="24" height="26" alt="LinkedIn" /></a></td><br />
+				  
+				  <td><a href="http://www.causes.com/beneficiaries/83388"title="Causes"><img src="img/icons/causes.gif" alt="causes" width="24" height="26" alt="causes"/></td>
+                  <td><a href="http://bayanngcandelaria.ning.com/group/friendsofreef" title="Bayan Ng Candelaria"><img src="img/icons/bnc.gif" width="24" height="26" alt="Bayan Ng Candelaria" /></a></td>
+                  <td><a href="http://www2.guidestar.org/organizations/30-0453051/renewable-energy-enterprises-foundation.aspx" title="Guidestar"><img src="img/icons/guidestar.gif" width="24" height="26" alt="Guidestar" /></a></td>
+                 
+            
+<td><a href="http://renewableenergyenterprisesfoundation.wordpress.com/"title="Blog"><img src="img/icons/bi.gif" width="20" height="22"/></a></td>
+              </tr>
+</table>
+</div>
+<!--div id="nav-container"-->
+<div id="nav-container">
+<ul id="navigation-1">
+<li><a href="index.html" title="Home">Home</a>
+<ul class="navigation-2">
+<li><a href="contact.html">Contact Us</a></li>
+<li><a href="fiscal-sponsor.html">Fiscal
+Sponsor</a></li>
+</ul>
+</li>
+<li><a href="#">Programs</a>
+<ul class="navigation-2">
+<li><a href="family-first.html">Family First</a></li>
+<li><a href="leads.html">Leads</a> </li>
+<li><a href="green-hospital.html">Green
+Hospital</a></li>
+<li><a href="sponsor-a-family.html">Sponsor a
+Family</a></li>
+</ul>
+</li>
+
+<li><a href="donate.html">Donate</a>
+<ul class="navigation-2">
+<li><a href="donate-individual.html">Individuals</a></li>
+<li><a href="donate-corporate.html">Corporate
+Sponsors</a>
+</li>
+<li><a href="donate-in-kind.html">In-Kind</a>
+</li>
+</ul>
+</li>
+<li><a href="partners.html">Partners</a>
+</li>
+
+<li><a href="news.html">News</a>
+<ul class="navigation-2">
+<li><a href="news-archive.html">News Archive</a></li>
+</ul>
+</li>
+
+<li><a href="events.html" title="Events">Events</a>
+          <ul class="navigation-2">
+		    <li><a href="events-archive.html">Past Events</a></li>
+          </ul>
+		</li>
+
+<li><a href="#" title="Join Us">Join Us</a>
+<ul class="navigation-2">
+<li><a href="volunteer.html">Volunteer</a>
+</li>
+</ul>
+</li>
+<li><a href="#">About</a>
+<ul class="navigation-2">
+<li><a href="mission.html">Vision/Mission</a></li>
+<li><a href="board.html">Board of Directors</a>
+</li>
+<li><a href="staff.html">Staff</a> </li>
+<li><a href="reef-volunteers.html">REEF
+Volunteers</a></li>
+<li><a href="faq.html">FAQ</a></li>
+</ul>
+</li>
+
+</ul>
+</div>
+</div-->
+<div class="reef-name">
+</div>
+<div class="clearfix"></div>
+</div>
+<div id="banner">
+<img src="img/banner-picture-1.jpg" alt="Pic 1" height="380" width="1210" align="center"></div>
+<div class="clearfix"></div>
+<div id="tagline">
+<img src="img/tagline.gif" height="45" width="800"></div>
+<div id="content-wrapper">
+<div class="content-left">
+<div class="socmed">
+
+<p>Stay current with REEF's projects and events.
+We pledge to honor your privacy and send only relevant notices.
+Sign up <a href="addemail.php">here</a>. </p>
+<div id="google_translate_element"></div>
+<script>
+function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'en'},'google_translate_element');}</script>
+<script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
+<!--div id="firstGiving">
+<a href="http://www.firstgiving.com/fundraiser/renewableenergyenterprises-foundation/renewableenergyenterprisesfoundationfundraisingpag" alt="FirstGiving- SPONSOR ME" target="_blank"><img src="img/donate-badge2.png" border="0" height="144" width="150"></a></div!-->
+<div class="video">
+ <!--object height="194" width="225"><param name="movie" value="http://www.youtube.com/p.swf?video_id=LDzFcuKCHhM?fs=1&amp;hl=en_US"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always">
+<embed src="http://www.youtube.com/v/LDzFcuKCHhM?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="194" width="225"></object-->
+<iframe width="225" height="194" src="http://www.youtube.com/embed/LDzFcuKCHhM?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="main-content-right cushycms"><p>
+	<img alt="Welcome to REEF" height="35" src="img/welcome-title.gif" width="350" /></p>
+<address style="margin-left: 40px;">
+	The Renewable Energy Enterprises Foundation</address>
+<h2 style="margin-left: 40px;">
+	We are not simply lifting <a href="http://www.alleviatepovertynow.org/donate-individual.html">one family</a> from poverty, we are alleviating inequalities within a <a href="http://www.alleviatepovertynow.org/donate-corporate.html">community</a>.</h2>
+<p style="margin-left: 40px;">
+	<br />
+	Renewable Energy Enterprises Foundation operates within rural and impoverished communities, utilizing clean energy technologies and alternative practices, to promote health, environment, and economic mobility.&nbsp;<br />
+	<br />
+	REEF is a 501(c)(3) that engages with community stakeholders struggling with poverty.&nbsp; Currently, we implement multiple strategies in effort to break down economic barriers: at the household level with the <a href="http://www.alleviatepovertynow.org/family-first.html">Family First Program</a>, at the village level with the <a href="http://www.alleviatepovertynow.org/green-hospital.html">Green Community Program</a> and at the community at large through the <a href="http://www.alleviatepovertynow.org/leads.html">LEADS</a> program.&nbsp; <a href="http://www.alleviatepovertynow.org/volunteer.html">Learn more about how you can get involved</a>.<br />
+	<br />
+	REEF is dedicated to accountability and transparency.&nbsp; When you contribute to REEF, you know where your donation is going and how it directly benefits individuals and community stakeholders.&nbsp; <a href="https://npo1.networkforgood.org/Donate/Donate.aspx?npoSubscriptionId=1006273&amp;code=2012%20End%20of%20Year">Learn about how you can benefit REEF</a>.<br />
+	<br />
+	REEF is an all-volunteer company.&nbsp; We are a collaboration of highly motivated, dedicated and well-trained professionals, bringing to bear the strengths of our respective fields and areas of expertise.&nbsp; Our diversity allows as to adapt to a wide range of problems and effectively address a changing world.&nbsp; It&rsquo;s what defines us.&nbsp; Think you can help?&nbsp; <a href="http://www.alleviatepovertynow.org/contact.html">We&#39;d love to hear from you</a>.<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	&nbsp;</p>
+</div>
+<div class="clearfix"></div>
+<div id="footer">
+<a class="grassroots" href="http://www.grassroots.org" target="_blank"><img src="img/grassroots-logo.gif" alt="Grassroots Logo" height="60" width="237"></a>
+<div class="colophon">
+<h4>©Copyright 2012 REEF - Renewable Energy Enterprises Foundation<br>
+Oakland, California - <a href="mailto:info@alleviatepovetynow.org">info@alleviatepovertynow.org</a></h4>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div id="burlap-bottom"></div>
+<header>
+<nav></nav></header><footer>
+</footer>
+<script>
+var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-19155943-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script></div>
+</body></html>

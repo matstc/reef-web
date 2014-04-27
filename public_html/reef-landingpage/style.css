@@ -1,0 +1,191 @@
+body{padding:50px;
+	background-color:#9E9D5D;
+	}
+
+#headercon {
+	width:100%;
+	border:0px solid  #D3D15F;
+	border-radius:15px;
+	height:150px;
+	margin:0 auto;
+	
+	}
+	
+	.head-text{
+		color:#65065f;
+		font-size:40px;
+		font-family: georgia , serif;
+		margin-left:30px;
+		}
+	
+#header-logo {
+	
+	}
+	
+#head-cent{
+	position:relative;
+	left:70px;
+	top:-50px;
+	text-align:center;
+	color:#B86B53;
+	
+	}
+	
+#pagecon{
+	background-image:url('images/RATTAN-WEAVE.jpg');
+	background-repeat:repeat-xy;		
+	border:0px solid #D3D15F;
+	border-radius:25px;
+	width:1000px;
+	Height:1200px;
+	padding:20px;
+	margin:0px auto;
+	position:relative;
+	}
+
+#smtextcon-cen{
+	width:250px;
+	height:250px;
+	border:solid red 0px;
+	position:relative;
+	top:120px;
+	left:370px;
+	background-color:transparent;
+	border-radius:50px;
+	
+	}
+	
+	
+#main-content{
+	background-color:#F0E9DF;
+	padding:30px;
+	text-align:left;
+	color:#D3D15F;
+	line-height:200%;
+	list-style-type:none;    
+	Height:1070px;	
+	z-index:2;
+	
+		}
+#top-text{
+	
+	float:right;
+	width:510px;
+	height:450px;
+	position:relative;
+        top:-550px;
+	    right:0px;
+		color:black;
+	font-size:15pt;
+	}
+	
+#bottom-text{
+	
+	
+	width:935px;
+	height:450px;
+	position:relative;
+        top:-90px;
+	    right:-5px;
+		color:black;
+	font-size:15pt;
+	}
+	
+#smtextcon-cen{display:none;}
+#smtextcon-cen:hover div{display:block;}
+
+#footercon{
+	position:absolute;
+    top:450px;
+	right:150px;
+	width:700px;
+	text-align:center;
+	color:#D3D15F;
+	line-height:150%;
+	list-style-type:bold;
+	
+		}
+		
+.bottom{
+		position:relative;
+        top:-565px;
+	    right:150px;
+		z-index:3;
+		
+		}
+		
+.sun{
+		position:relative;
+        top:-990px;
+	    right:125px;
+		z-index:1;
+		
+		}
+		
+.wind-mill{
+		position:relative;
+        top:-240px;
+	    right:-620px;
+		
+		}
+		
+.logo{
+	position:relative;
+        top:-57px;
+	    right:94px;
+		z-index:2;
+	}
+	
+.reef{
+	position:relative;
+        top:-120px;
+	    right:130px;
+	}
+	
+.reef-name{
+	position:relative;
+        top:-190px;
+	    right:-290px;
+		color:#3A8419;
+		font-size:19px;
+		font-family: Impact ;
+		letter-spacing:1.45px;
+	}	
+	
+.solar-tl{
+	position:relative;
+        top:-120px;
+	    right:50px;
+		z-index:1;
+	}
+	
+.solar-mr{
+	position:absolute;
+        top:0px;
+	    right:-55px;
+		z-index:1;
+		float:right;
+	}
+		
+.solar-br{
+	position:relative;
+        top:-300px;
+	    right:-320px;
+		z-index:1;
+	}
+		
+.solar-bl{
+	position:relative;
+        top:-300px;
+	    right:-320px;
+		z-index:1;
+	}
+	
+.header{
+	font-family:cursive;
+	color:black;
+	font-size:35px;
+	font-style:bold;
+	
+	
+	}	

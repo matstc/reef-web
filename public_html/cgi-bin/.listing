@@ -1,0 +1,9 @@
+drwxr-xr-x   3 sguser   2178         4096 Apr  7  2010 .
+drwxr-xr-x   9 sguser   2178         4096 Jan  3 21:58 ..
+-rw-r--r--   1 sguser   2178         2711 Nov  6  2011 env.c
+-rwxr-xr-x   1 sguser   2178         4224 Nov  6  2011 env.cgi
+-rwxr-xr-x   1 sguser   2178         1497 Nov  6  2011 env.pl
+-rwxr-xr-x   1 sguser   2178           85 Nov  6  2011 hello.pl
+drwxr-xr-x   2 sguser   2178         4096 Apr  7  2010 php5-default
+-rwxr-xr-x   1 sguser   2178        22853 Nov  6  2011 search_form.cgi
+-rwxr-xr-x   1 sguser   2178        11496 Nov  6  2011 search_index.cgi

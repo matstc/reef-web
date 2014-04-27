@@ -1,0 +1,54 @@
+#header{
+  display: block;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 800px;
+  background: transparent url(../img/trans-bg.png) repeat-y;
+  z-index: 50;
+  margin: 0px auto;
+}
+
+#logo{
+  z-index: 100;
+  position: absolute;
+  padding: 0;
+  margin-left: -50px;
+  display: inline-block;
+  float: right;
+}
+  
+#footer{
+  display: inline-block;
+  width: 800px;
+  margin: 5px auto 0 auto;
+  background: transparent url(../img/trans-bg.png) repeat;
+  position: relative;
+}
+
+.grassroots{
+  float: left;
+  margin-left: 10px;
+  display: inline;
+}
+
+.grassroots img{
+  border: 0;
+  outline: none;
+}
+
+.colophon{
+  float: right;
+  text-align: right;
+  width: 400px;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+.colophon h4{
+  font-weight: normal;
+  font-size: 8pt;
+  line-height: 12pt;
+}
+
+
